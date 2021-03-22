@@ -1,0 +1,6 @@
+## Interface: 90002
+## Title: <>LaohuAuctionScan
+## Notes: LaohuAuctionScan
+## Author: LaohuAuctionScan
+
+LaohuAuctionScan.lua
