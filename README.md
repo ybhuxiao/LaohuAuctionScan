@@ -2,7 +2,7 @@
 
 魔兽世界拍卖钓鱼/反钓鱼的基础代码，讲解视频在这里，请给个关注+三连哦
 
-https://www.bilibili.com/video/BV1hv41187Q5/
+做个宏/run scanItemID()，然后一直按就行了，代码不懂的，看这里的讲解。https://www.bilibili.com/video/BV1hv41187Q5/
 
 对魔兽插件开发有兴趣的，可以加我QQ376665005交流学习（加我之前建议先关注b站增进感情，关注了我们就是朋友了）。
 
